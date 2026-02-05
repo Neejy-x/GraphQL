@@ -5,10 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["graphql", "apollo", "gaming", "ratings"],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A GraphQL API built with Apollo Server for managing game ratings and reviews",
   "type": "module",
   "dependencies": {
     "@apollo/server": "^5.2.0",
